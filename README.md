@@ -1,1 +1,1 @@
-Set BT Mảng 1
+Set BT Mảng 1, 2
